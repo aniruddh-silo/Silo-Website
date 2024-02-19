@@ -1,4 +1,4 @@
-# Frontend Mentor - Silo Energy Coming Soon Page
+## Silo Energy Coming Soon Page
 
 ## Welcome! 👋
 
@@ -11,4 +11,4 @@
 " />
 </a>
 
-Thanks for checking out this front-end coding challenge.
+Thanks for checking out our website.
